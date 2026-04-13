@@ -10,7 +10,7 @@ We present HAFM, a system that generates instrumental music audio to accompany i
 
 ## 2. ARCH
 <div align="center">
-  <img src="https://github.com/HackerHyper/HAFM/blob/main/ARCH.png">
+  <img src="https://github.com/HackerHyper/HAFM/blob/main/ARCH.jpg">
 </div>
 
 ## 3. Demo
