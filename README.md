@@ -16,7 +16,13 @@ We present HAFM, a system that generates instrumental music audio to accompany i
 ## 3. Model
 https://huggingface.co/zhuqijian/HAFM
 
-## 4. Demo
+# 4. infer（ semantic + coarse + fine checkpoint）
+python infer_simple.py \
+  --vocal_path  vocal.wav \
+  --output_path output.wav \
+  --config      configs/ar.yaml
+
+## 5. Demo
 [![播放音频](https://img.shields.io/badge/点击播放-音频-blue?style=for-the-badge&logo=googlemusic)](https://raw.githubusercontent.com/HackerHyper/HAFM/main/accomp_3s_instrumental.wav)
 
 If you have any problems, contact me via qijian.zhu@outlook.com.
