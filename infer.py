@@ -196,7 +196,7 @@ def infer(args):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="SingSong AR 推理")
+    parser = argparse.ArgumentParser(description="HAFM 推理")
     parser.add_argument("--config",      default="configs/ar.yaml", help="配置文件")
     parser.add_argument("--vocal_path",  required=True,             help="输入人声 .wav")
     parser.add_argument("--output_path", default="output.wav",      help="输出混音 .wav")
