@@ -1,7 +1,7 @@
 # HAFM
 HAFM: Hierarchical Autoregressive Foundation Model for Music Accompaniment Generation
 > **Authors:**
-Jian Zhu, Jianwei Cui, Shihao Chen, Yubang Zhang, Cheng Luo.
+Jian Zhu, Jianwei Cui, Shihao Chen, Yubang Zhang, Yunlong Xue, Cheng Luo.
 
 This repo contains the code and data of [Hierarchical Autoregressive Foundation Model](https://arxiv.org/abs/2604.09054).
 
