@@ -3,7 +3,7 @@
 简单推理脚本：输入人声 WAV，输出伴奏 + 混音 WAV
 
 用法：
-  python infer_simple.py --vocal_path vocal.wav --output_path output.wav --config configs/ar.yaml
+  python infer.py --vocal_path vocal.wav --output_path output.wav --config configs/ar.yaml
 
 可选参数：
   --skip_fine     跳过 fine stage（质量略低，适合还没训练 fine 的情况）
